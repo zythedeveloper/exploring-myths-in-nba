@@ -29,7 +29,7 @@ This project analyzes common myths and trends in the National Basketball Associa
 3. Run the Jupyter Notebook to explore the analysis.
 
 ## Usage
-- Open `MidtermProject.ipynb` in Jupyter Notebook.
+- Open `exploring-myths-in-nba.ipynb` in Jupyter Notebook.
 - Follow the steps to execute the analysis.
 - Modify the code as needed to explore different aspects of NBA statistics.
 
