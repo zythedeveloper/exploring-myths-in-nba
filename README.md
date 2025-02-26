@@ -19,7 +19,7 @@ This project analyzes common myths and trends in the National Basketball Associa
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/NBA-MythBusting.git
+   git clone https://github.com/zythedeveloper/NBA-MythBusting.git
    cd NBA-MythBusting
    ```
 2. Install dependencies:
